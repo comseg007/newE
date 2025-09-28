@@ -41,6 +41,24 @@ If you prefer to build from source, follow these steps:
 This project is open source. Please see the [LICENSE](LICENSE) file for details.  
 *Recommended: MIT or Apache 2.0 license.*
 
+## Technical Challenges & Benefits
+Documenting the technical challenges in this project brings several important benefits:
+
+1. **Helps Developers Assess Difficulty**  
+   Potential contributors can understand the complexity of the project in advance, prepare mentally and technically, and avoid giving up due to unexpected challenges.
+
+2. **Enhances Professionalism and Transparency**  
+   Clearly presenting engineering experience and project insights increases credibility and attractiveness to the community.
+
+3. **Facilitates Communication and Collaboration**  
+   By clarifying technical challenges, future contributors can offer targeted suggestions, share experiences, or help solve problems, improving team efficiency.
+
+4. **Attracts Experienced Developers**  
+   Highlighting technical difficulties often draws in skilled developers who are eager for challenges, driving the project forward.
+
+5. **Reduces "Pitfalls" for Newcomers**  
+   New participants can follow the documented notes to avoid common issues, saving significant time and effort.
+   
 ## Contributing
 Contributions are welcome! Please submit issues or pull requests if you have suggestions, improvements, or bug reports.
 
