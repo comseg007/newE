@@ -21,8 +21,12 @@ newE is a customized Chromium-based browser designed to simplify English grammar
 - **spaCy**: Natural language processing
 - **AI**: Smart grammar transformation
 
+## Download
+You can directly download the ready-to-run package from the [Releases](https://github.com/comseg007/newE/releases) page.
+- **newE.zip**: Contains all necessary files. After extraction, simply double-click the green snail icon (`newE.exe`) to launch the browser.
+
 ## Installation
-Instructions for building and running newE...
+If you prefer to build from source, follow the instructions below...
 
 ## Usage
 How to use newE for English learning...
