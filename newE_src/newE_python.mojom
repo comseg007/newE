@@ -1,0 +1,11 @@
+module convert_to_new_e_by_python;
+
+// Renderer时，请求browser执行python函数(代码)
+interface ConvertToNewEUI {
+  // 执行python脚本，返回结果（异步）
+  work(string script) => (string result);
+
+  // 执行python脚本，返回结果（同步）
+  [Sync]
+  work_sync(string script) => (string result);
+};

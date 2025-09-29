@@ -1,0 +1,34 @@
+import("//mojo/public/tools/bindings/mojom.gni")
+
+mojom("newE_python_mojom") {
+  sources = [
+    "newE_python.mojom",
+  ]
+}
+
+static_library("newE_lib") {
+  sources = [
+    "newE.cpp",
+  ]
+
+  include_dirs = [
+    "C:/Users/Administrator/AppData/Local/Programs/Python/Python313/include",
+  ]
+
+  lib_dirs = [
+    "C:/Users/Administrator/AppData/Local/Programs/Python/Python313/libs",
+  ]
+
+  libs = [
+    "python313.lib",
+  ]
+
+  cflags_cc = [ "-Wno-deprecated-declarations" ]
+
+  deps = [
+    "//base",
+    "//third_party/cld_3/src/src:cld_3",
+    "//third_party/protobuf:protobuf_lite",  
+    ":newE_python_mojom",
+  ]
+}
