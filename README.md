@@ -27,11 +27,6 @@ You can directly download the ready-to-run package from the [Releases](https://g
 
 > **Note:** The `python_embed` folder is included in the `newE.zip` package. After extraction, make sure it remains in the `newE` directory. No additional setup is required for this component.
 
-
-
-
-
-
 ## Installation
 If you prefer to build from source, follow these steps:
 1. Clone this repository.
