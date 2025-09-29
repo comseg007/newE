@@ -1,6 +1,6 @@
 # newE
 
-**Python, cld_3, AI, spaCy, Chromium powered browser for English learners—newE.**
+**Python, CLD3, AI, spaCy, Chromium powered browser for English learners—newE.**
 
 ## Introduction
 newE is a customized Chromium-based browser designed to simplify English grammar on web pages, making it easier for non-native speakers and beginners to learn English. The project aims to help learners avoid unnecessary grammatical complexity and focus on essential language skills.
@@ -10,12 +10,12 @@ newE is a customized Chromium-based browser designed to simplify English grammar
 - Removes plural forms from countable nouns
 - Removes third-person singular "-s" from verbs
 - Only modifies English content, preserving other languages
-- Integrates Python, cld_3, spaCy, and AI for intelligent text processing
+- Integrates Python, CLD3, spaCy, and AI for intelligent text processing
 
 ## Technology Highlights
 - **Chromium**: Modern browser engine
 - **Python**: Advanced text analysis and processing
-- **cld_3**: Language detection
+- **CLD3**: Language detection
 - **spaCy**: Natural language processing
 - **AI**: Smart grammar transformation
 - **IPC (Inter-Process Communication)**: Efficient communication between browser core and Python/AI modules
@@ -28,7 +28,7 @@ You can directly download the ready-to-run package from the [Releases](https://g
 ## Installation
 If you prefer to build from source, follow these steps:
 1. Clone this repository.
-2. Install required dependencies (Python, spaCy, cld_3, etc.).
+2. Install required dependencies (Python, spaCy, CLD3, etc.).
 3. Build the Chromium-based project using Visual Studio 2022 (C++14).
 4. Run `newE.exe` as described above.
 
