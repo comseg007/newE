@@ -1,6 +1,6 @@
 # newE
 
-**Python, CLD3, AI, spaCy, Chromium powered browser for English learners—newE.**
+**Python, AI, Chromium powered browser for English learners—newE. Looking for like-minded collaborators to promote simplified English learning together!.**
 
 ## Introduction
 newE is a customized Chromium-based browser designed to simplify English grammar on web pages, making it easier for non-native speakers and beginners to learn English. The project aims to help learners avoid unnecessary grammatical complexity and focus on essential language skills.
