@@ -69,6 +69,10 @@ Author: ShaoZhong Chen
 Email: comseg007@263.net  
 GitHub: [comseg007](https://github.com/comseg007)
 
+## Feedback & Community
+If you have questions, suggestions, or want to share your experience, please use [Issues](https://github.com/comseg007/newE/issues) or [Discussions](https://github.com/comseg007/newE/discussions) on GitHub.  
+We welcome all feedback and contributions!
+
 ---
 
 *newE is an educational tool and language experiment. The simplified grammar is not standard English, but aims to help beginners learn more easily. For more information or collaboration, feel free to contact the author.*
