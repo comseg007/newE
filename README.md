@@ -66,7 +66,7 @@ Contributions are welcome! Please submit issues or pull requests if you have sug
 
 ## Contact
 Author: ShaoZhong Chen  
-Email: comseg007@263.net
+Email: comseg007@263.net  
 GitHub: [comseg007](https://github.com/comseg007)
 
 ---
