@@ -8,11 +8,12 @@ Determine whether to use a VPN based on your current internet connection quality
 Begin by setting up Google’s depot_tools package.
 
 2. Download Source Code
-Use gclient sync to fetch the complete Chromium repository. Switch to your desired source directory (e.g., D:\Chromium\src), then advance to Step 3. My personal structure includes:
+Use gclient sync to fetch the complete Chromium repository. Switch to your desired source directory (e.g., D:\Chromium\src), then advance to Step
 
-D:\depot_tools
-D:\Chromium\src
-3. Configure Build System
+3. My personal structure includes:
+D:\depot_tools and D:\Chromium\src
+
+4. Configure Build System
 Always define build flags via terminal before compiling. Example workflow:
 
 Navigate to D:\Chromium\src
@@ -63,4 +64,5 @@ HTTP Proxy: http://127.0.0.1:33210 (adjust port if needed)
 All traffic via SOCKS5: socks5://127.0.0.1:33211 (adjust port if needed)
 Set environment variable: DEPOT_TOOLS_WIN_TOOLCHAIN=0
 Run hook scripts: gclient runhooks
+
 Retry previous build commands (autoninja or gn gen).
