@@ -65,8 +65,8 @@ Documenting the technical challenges in this project brings several important be
 Contributions are welcome! Please submit issues or pull requests if you have suggestions, improvements, or bug reports.
 
 ## Contact
-Author: [Your Name]  
-Email: [your-email@example.com]  
+Author: [ShaoZhong Chen]  
+Email: [comseg007@263.net]  
 GitHub: [comseg007](https://github.com/comseg007)
 
 ---
