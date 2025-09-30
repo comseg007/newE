@@ -1,6 +1,7 @@
 # newE
 
 Python, AI, Chromium powered browser for English learners—newE.  
+
 A browser designed to simplify English grammar on web pages, making reading and learning easier for non-native speakers and beginners. Looking for like-minded collaborators to promote simplified English learning together!
 
 ## Features
