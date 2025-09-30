@@ -1,8 +1,7 @@
 # newE
 
-**Python, AI, Chromium powered browser for English learners—newE. Looking for like-minded collaborators to promote simplified English learning together!.**
-
-newE is a customized Chromium-based browser designed to simplify English grammar on web pages, making it easier for non-native speakers and beginners to learn English. The project aims to help learners avoid unnecessary grammatical complexity and focus on essential language skills.
+Python, AI, Chromium powered browser for English learners—newE.  
+A browser designed to simplify English grammar on web pages, making reading and learning easier for non-native speakers and beginners. Looking for like-minded collaborators to promote simplified English learning together!
 
 ## Features
 - Converts English verb past tense and past participle to base form + "_ed"
@@ -12,12 +11,12 @@ newE is a customized Chromium-based browser designed to simplify English grammar
 - Integrates Python, CLD3, spaCy, and AI for intelligent text processing
 
 ## Technology Highlights
-- **Chromium**: Modern browser engine
-- **Python**: Advanced text analysis and processing
-- **CLD3**: Language detection
-- **spaCy**: Natural language processing
-- **AI**: Smart grammar transformation
-- **IPC (Inter-Process Communication)**: Efficient communication between browser core and Python/AI modules
+- Chromium: Modern browser engine
+- Python: Advanced text analysis and processing
+- CLD3: Language detection
+- spaCy: Natural language processing
+- AI: Smart grammar transformation
+- IPC (Inter-Process Communication): Efficient communication between browser core and Python/AI modules
 
 ## Download
 You can directly download the ready-to-run package from the [Releases](https://github.com/comseg007/newE/releases) page.
@@ -32,7 +31,7 @@ You can directly download the ready-to-run package from the [Releases](https://g
 - Ideal for English learners and educators seeking a more accessible reading experience.
 
 ## License
-This project is open source. Please see the [LICENSE](LICENSE) file for details.  
+This project is open source. Please see the LICENSE file for details.  
 *Recommended: MIT or Apache 2.0 license.*
 
 ## Contributing
@@ -44,9 +43,7 @@ Email: comseg007@263.net
 GitHub: [comseg007](https://github.com/comseg007)
 
 ## Feedback & Community
-If you have questions, suggestions, or want to share your experience, please use [Issues](https://github.com/comseg007/newE/issues) or [Discussions](https://github.com/comseg007/newE/discussions) on GitHub.  
+If you have questions, suggestions, or want to share your experience, please use Issues or Discussions on GitHub.  
 We welcome all feedback and contributions!
 
----
-
-*newE is an educational tool and language experiment. The simplified grammar is not standard English, but aims to help beginners learn more easily. For more information or collaboration, feel free to contact the author.*
+newE is an educational tool and language experiment. The simplified grammar is not standard English, but aims to help beginners learn more easily. For more information or collaboration, feel free to contact the author.
