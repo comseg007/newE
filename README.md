@@ -22,9 +22,9 @@ A browser designed to simplify English grammar on web pages, making reading and 
 ## Download
 You can directly download the ready-to-run package from the [Releases](https://github.com/comseg007/newE/releases) page.
 
-- **newE.zip**: Contains all necessary files. After extraction, simply double-click the green snail icon (`newE.exe`) to launch the browser.
+- **newE.rar**: Contains all necessary files. After extraction, simply double-click the green snail icon (`newE.exe`) to launch the browser.
 
-> **Note:** The `python_embed` folder is included in the `newE.zip` package. After extraction, make sure it remains in the `newE` directory. No additional setup is required for this component.
+> **Note:** The `python_embed` folder is included in the `newE.rar` package. After extraction, make sure it remains in the `newE` directory. No additional setup is required for this component.
 
 ## Usage
 - Browse any English web page with newE.
