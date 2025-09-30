@@ -27,13 +27,6 @@ You can directly download the ready-to-run package from the [Releases](https://g
 
 > **Note:** The `python_embed` folder is included in the `newE.zip` package. After extraction, make sure it remains in the `newE` directory. No additional setup is required for this component.
 
-## Installation
-If you prefer to build from source, follow these steps:
-1. Clone this repository.
-2. Install required dependencies (Python, spaCy, CLD3, etc.).
-3. Build the Chromium-based project using Visual Studio 2022 (C++14).
-4. Run `newE.exe` as described above.
-
 ## Usage
 - Browse any English web page with newE.
 - The browser will automatically simplify English grammar according to the rules above.
